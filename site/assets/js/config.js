@@ -6,7 +6,7 @@ export const CONFIG = Object.freeze({
   tagline: 'Data centers, power, water and policy by province',
 
   // Set to your repository URL once it exists, e.g. 'https://github.com/<user>/china-dashboard'.
-  repoUrl: 'https://github.com/giasmith/china-dashboard',
+  repoUrl: 'https://github.com/ntimbs/china-dashboard',
 
   // Partner logos at the top left of every page (files in site/assets/img/). width/height are the files' pixel sizes;
   // they only reserve the aspect ratio before the image loads - the CSS sets the displayed height.
