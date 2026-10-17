@@ -185,7 +185,7 @@ Rebuild the map files from the EDWC folder (this repository sits inside it):
 
 ## Deploy to GitHub Pages
 
-Live site: **https://giasmith.github.io/china-dashboard/** (repository `giasmith/china-dashboard`, public).
+Live site: **https://ntimbs.github.io/china-dashboard/** (repository `ntimbs/china-dashboard`, forked from `giasmith/china-dashboard`).
 
 First publish, from this folder on your Mac:
 
