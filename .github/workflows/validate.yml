@@ -1,3 +1,4 @@
+
 # Data validation + unit tests (+ browser smoke test). Runs on pull requests, and is reused by the deploy workflow.
 name: Validate
 
@@ -42,7 +43,7 @@ jobs:
 
       - name: Browser smoke test
         run: |
-          python -m playwright install --with-deps chromium
+          python -m playwright install chromium
           python -m http.server 8000 --directory site &
           sleep 2
           python tests/browser/smoke.py
